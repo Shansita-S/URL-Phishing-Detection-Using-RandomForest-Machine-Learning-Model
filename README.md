@@ -35,16 +35,18 @@ Refer Projectstructure.txt for Reference
    ```bash
    git clone https://github.com/naveen-sekhar/URL-Phishing-Detection-Using-RandomForest-Machine-Learning-Model.git
 cd URL-Phishing-Detection-Using-RandomForest-Machine-Learning-Model
+
 2. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
-4. **(Optional) Retrain the Model**
+   
+3. **(Optional) Retrain the Model**
    ```bash
    python train_model.py
-6. **Run the Flask Server**
+4. **Run the Flask Server**
     ```bash
    python app.py
-8. Open in Browser
+5. Open in Browser
    ```bash
    http://localhost:5000
 
