@@ -1,6 +1,6 @@
 # 🔒 Phishing URL Detector
 
-A Machine Learning-based web application that detects whether a given URL is **legitimate** or **phishing**. It uses a Random Forest Classifier trained on a Synthetic dataset of 10,000 labeled URLs and provides real-time prediction through a simple, animated frontend and Flask backend.
+A Machine Learning-based web application that detects whether a given URL is **legitimate** or **phishing** with an explanation for the same. It uses a Random Forest Classifier trained on a Synthetic dataset of 10,000 labeled URLs and provides real-time prediction through a simple, animated frontend and Flask backend.
 
 ---
 
@@ -11,7 +11,7 @@ A Machine Learning-based web application that detects whether a given URL is **l
 - 📊 Trained on a robust synthetic dataset with 30+ features
 - 🌐 Clean, responsive UI with modern animations
 - 🔁 RESTful API for backend communication
-- Can be use for a custom real-time dataset
+- Can be used for a custom real-time dataset
   
 ---
 
